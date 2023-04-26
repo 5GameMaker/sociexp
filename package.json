@@ -1,0 +1,22 @@
+{
+  "name": "sociexp",
+  "version": "1.0.0",
+  "description": "Funni social experiment",
+  "main": "build/index.js",
+  "repository": "https://github.com/5GameMaker/sociexp.git",
+  "author": "buj",
+  "license": "MIT",
+  "dependencies": {
+    "@types/body-parser": "^1.19.2",
+    "@types/cookie-parser": "^1.4.3",
+    "@types/express": "^4.17.17",
+    "@types/node": "^18.16.1",
+    "better-sqlite3": "^8.3.0",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^5.1.6",
+    "typeorm": "^0.3.15"
+  }
+}

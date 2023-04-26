@@ -1,0 +1,5 @@
+.tsbuildinfo
+database.db
+node_modules
+build
+typings
